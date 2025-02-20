@@ -1,0 +1,11 @@
+__pycache__/
+.venv/
+
+# Logs and debug files
+logs/
+*.log
+
+# Environment variables and secrets
+.env
+*.env
+*.ini
