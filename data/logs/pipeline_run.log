@@ -1,0 +1,14 @@
+2025-02-20 18:05:23,861 - run_pipeline - INFO - Scanning for images in: data/imgs
+2025-02-20 18:05:23,861 - run_pipeline - INFO - Number of images found: 1
+2025-02-20 18:05:23,865 - run_pipeline - INFO - Parallel processing starts...
+2025-02-20 18:05:23,865 - run_pipeline - DEBUG - Number of workers called: 14
+2025-02-20 18:05:24,570 - run_pipeline - INFO - Processing images...
+2025-02-20 18:05:25,306 - SpawnProcess-3 - worker - INFO - Extracting info for data/imgs\img_1.jpg
+2025-02-20 18:05:27,602 - run_pipeline - INFO - Parallel processing done.
+2025-02-20 18:07:37,891 - run_pipeline - INFO - Scanning for images in: data/imgs
+2025-02-20 18:07:37,891 - run_pipeline - INFO - Number of images found: 1
+2025-02-20 18:07:37,904 - run_pipeline - INFO - Parallel processing starts...
+2025-02-20 18:07:37,904 - run_pipeline - DEBUG - Number of workers called: 14
+2025-02-20 18:07:38,637 - run_pipeline - INFO - Processing images...
+2025-02-20 18:07:39,352 - SpawnProcess-3 - worker - INFO - Extracting info for data/imgs\img_1.jpg
+2025-02-20 18:07:56,180 - run_pipeline - INFO - Parallel processing done.
